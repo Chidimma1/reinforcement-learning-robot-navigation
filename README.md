@@ -205,9 +205,9 @@ Final_Project_Clean.ipynb
 
 | Member                              | Role                   | Contribution                                                      |
 |-------------------------------------|------------------------|-------------------------------------------------------------------|
-| Bhone Kyaw Si Hein (ID: 2531763)    | Environment & Tools    | GridWorld class, LiDAR sensor, all visualization functions, BFS baseline, GIF animations, Pygame visualizer |
+| Bhone Kyaw Si Hein                  | Environment & Tools    | GridWorld class, LiDAR sensor, all visualization functions, BFS baseline, GIF animations, Pygame visualizer |
 | Person B                            | Q-Learning & DQN       | Q-Learning, DQN (with replay buffer & target network), BFS comparison, bonus features (dynamic obstacles, larger grids) |
-| Chidimma Ukoha (ID: 2499117)        | Parameter Study        | Four parameter variation experiments (α, ε-decay, reward shaping, slip probability), analysis, final report writing |
+| Chidimma Ukoha                      | Parameter Study        | Four parameter variation experiments (α, ε-decay, reward shaping, slip probability), analysis, final report writing |
 
 ## References
 
