@@ -206,7 +206,7 @@ Final_Project_Clean.ipynb
 | Member                              | Role                   | Contribution                                                      |
 |-------------------------------------|------------------------|-------------------------------------------------------------------|
 | Bhone Kyaw Si Hein                  | Environment & Tools    | GridWorld class, LiDAR sensor, all visualization functions, BFS baseline, GIF animations, Pygame visualizer |
-| Person B                            | Q-Learning & DQN       | Q-Learning, DQN (with replay buffer & target network), BFS comparison, bonus features (dynamic obstacles, larger grids) |
+| Sandra Thomas                       | Q-Learning & DQN       | Q-Learning, DQN (with replay buffer & target network), BFS comparison, bonus features (dynamic obstacles, larger grids) |
 | Chidimma Ukoha                      | Parameter Study        | Four parameter variation experiments (α, ε-decay, reward shaping, slip probability), analysis, final report writing |
 
 ## References
